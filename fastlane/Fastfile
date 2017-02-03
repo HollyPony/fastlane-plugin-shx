@@ -1,0 +1,6 @@
+lane :test do
+  sh "pwd"
+  sh "pwd"
+  sh "pwd"
+end
+
